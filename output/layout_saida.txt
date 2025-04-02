@@ -1,0 +1,5 @@
+Turbina 1: (x=13.35, y=60.82)
+Turbina 2: (x=63.85, y=84.85)
+Turbina 3: (x=81.79, y=1.51)
+Turbina 4: (x=36.06, y=58.00)
+Turbina 5: (x=14.31, y=6.36)
