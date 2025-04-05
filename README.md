@@ -8,7 +8,7 @@
 
 ## 🌌 Visão Geral
 
-Este projeto implementa um Algoritmo Genético para otimizar a disposição de turbinas eólicas em uma determinada área, minimizando o impacto de interferência entre elas. A inspiração estética do projeto é baseada em jogos dos anos 80/90 e elementos do universo espacial, refletindo uma fusão entre algoritmos evolutivos e design retrô sci-fi.
+Este projeto implementa um Algoritmo Genético para otimizar a disposição de turbinas eólicas em uma determinada área, minimizando o impacto de interferência entre elas.
 
 ---
 
